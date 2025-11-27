@@ -1,34 +1,39 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#FF6EC7;">Mohamed Zakaria</span>  
-  <br>
-  <span style="color:#00E5FF;">Aspiring Full-Stack Developer</span>
+  👋 Hi, I'm <span style="color:#FF6EC7;">Mohamed Zakaria</span> | <span style="color:#00E5FF;">Front-End Developer</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF6EC7&center=true&vCenter=true&width=850&lines=Learning+Web+Development;Practicing+HTML+%26+CSS;Building+My+First+Projects!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF6EC7&center=true&vCenter=true&width=850&lines=Front-End+Developer;Building+Modern+Web+Interfaces;Always+Learning+%26+Improving!" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-🌱 **Beginner Web Developer** starting my journey with **HTML & CSS**.  
-💡 Learning step by step and sharing my progress on GitHub.  
-🎯 Goal: Become a **Full-Stack Developer** and build real-world projects.  
+💻 **Front-End Developer** passionate about creating clean, modern, and responsive user interfaces.  
+🌱 Currently improving my skills in **JavaScript** and modern front-end technologies.  
+✨ I believe in writing **clean, organized, and scalable code**.  
+🔥 Always learning something new!
 
 ---
 
-## 🛠️ My Current Stack  
+## 🛠️ My Tech Stack  
 <p align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap;">
   <img src="https://skillicons.dev/icons?i=html" height="80"/>
   <img src="https://skillicons.dev/icons?i=css" height="80"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="80"/>
 </p>
 
 ---
 
-## 📈 Learning Roadmap  
-- ✅ Learned HTML basics (headings, paragraphs, lists, links, images).  
-- 🔄 Currently learning **CSS** (colors, layouts, responsive design).  
-- 🔜 Next: **JavaScript** to add interactivity.  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohawed442&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&theme=react-dark" width="95%"/>
+</p>
 
 ---
 
@@ -36,4 +41,12 @@
 <p align="center">
   <a href="mailto:moddm766@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/mody.fanta/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=f
+  <a href="https://www.facebook.com/mody.fanta/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+## ⏳ Loading Something Awesome...  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+</p>
